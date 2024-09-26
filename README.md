@@ -24,7 +24,7 @@
 ---
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<img align="right" alt="GIF" height="160px" src="[https://i.giphy.com/9o9dh1JRGThC1qxGTJ.webp](https://www.google.com/imgres?q=working%20in%20it%20company%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2Fd2%2Fe7%2Ffad2e730bb3a7bb0ecea4e446e283920.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhardworker--637892734696428628%2F&docid=TT8ALS-2rnnN3M&tbnid=gGgYyaEC6VfR9M&vet=12ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA)" />
+<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/9o9dh1JRGThC1qxGTJ.webp(https://www.google.com/imgres?q=working%20in%20it%20company%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2Fd2%2Fe7%2Ffad2e730bb3a7bb0ecea4e446e283920.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhardworker--637892734696428628%2F&docid=TT8ALS-2rnnN3M&tbnid=gGgYyaEC6VfR9M&vet=12ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA)" />
 
 ## I'm a Computer Engineering Student  
 
