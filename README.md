@@ -15,7 +15,7 @@
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a> -->
 <!-- <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
- <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sanmit0804" height="30" width="40" /></a>
+ <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <br>
 <br>
 
@@ -30,6 +30,7 @@
 
 - 👨‍💻 I’m currently working on my <a href="https://github.com/kunjantalati/BookStore/">BookStore</a> using Reactjs.
 - 📚 I’m currently learning everything about MERN Stack Development 😅
+- while also enrolled in a certification course on Udemy, focused on the Google Cloud Platform.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Rock paper scissors.
 <br>
