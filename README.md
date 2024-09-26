@@ -11,7 +11,7 @@
 <a href="" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sanmit0804" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kunjan_2302/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanmit0804" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vaibhav02" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/9OqsXezKL9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/9OqsXezKL9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a> -->
 <!-- <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sanmit0804" height="30" width="40" /></a> -->
@@ -24,7 +24,7 @@
 ---
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/9o9dh1JRGThC1qxGTJ.webp" />
+<img align="right" alt="GIF" height="160px" src="[https://i.giphy.com/9o9dh1JRGThC1qxGTJ.webp](https://www.google.com/imgres?q=working%20in%20it%20company%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffa%2Fd2%2Fe7%2Ffad2e730bb3a7bb0ecea4e446e283920.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhardworker--637892734696428628%2F&docid=TT8ALS-2rnnN3M&tbnid=gGgYyaEC6VfR9M&vet=12ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjxyPWviuGIAxV93TQHHbo5DJ4QM3oECFcQAA)" />
 
 ## I'm a Computer Engineering Student  
 
